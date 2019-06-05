@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ModifiersThird",
+            "request": "launch",
+            "mainClass": "ModifiersThird"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ModifiersSecond",
+            "request": "launch",
+            "mainClass": "ModifiersSecond"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ModifiersFirst",
+            "request": "launch",
+            "mainClass": "ModifiersFirst"
+        }
+    ]
+}
