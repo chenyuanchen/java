@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ClassInClass",
+            "request": "launch",
+            "mainClass": "ClassInClass"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ModifiersThird",
             "request": "launch",
             "mainClass": "ModifiersThird"
